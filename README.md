@@ -1,2 +1,4 @@
 # cities-search-application
-an challanging application
+google map apis
+loopback 4
+redis
